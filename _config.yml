@@ -1,0 +1,8 @@
+title: Some-scripts
+description: Useful scripts for sites
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
